@@ -1,0 +1,4 @@
+
+Javokhir Tojiev;MH;200000213412;masterCard
+Ryan;MA;1234123412341234;Visa
+Elbek;MH;2145634587643;MasterCard
